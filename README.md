@@ -1,5 +1,5 @@
 - 👋 Oi, me chamo Rafael Tosta
-- 👀 Estou interessado em trabalhar com Frontend, e futuramente Full stack
-- 🌱 atualmente estou aprendendo, html5, css e javascript
+- 👀 Estou interessado em trabalhar com Frontend e/ou Backend, e futuramente Full stack
+- 🌱 atualmente estou aprendendo JavaScript, TypeScript, React, NextJs, NodeJs e SQL
 - 💞️ procuro colaborar em desenvolvimento de sites
 - 📫 como chegar em mim, insta: RafaPeco email: outro207@gmail.com
